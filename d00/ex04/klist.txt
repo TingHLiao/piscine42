@@ -1,0 +1,6 @@
+Credentials cache: API:53415
+        Principal: tliao@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  5 18:13:11 2019  Aug  6 04:13:11 2019  krbtgt/42.US.ORG@42.US.ORG
+Aug  5 18:13:12 2019  Aug  6 04:13:11 2019  ldap/ldap-master.42.us.org@42.US.ORG
